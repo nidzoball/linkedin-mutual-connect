@@ -6,7 +6,7 @@ from config import *
 check = False
 pages = 0
 users = []
-user_id = ''     #Enter the user id of profile that you want to mutually connect with
+user_id = ''     #Enter the user id of profiles connection list that you want the script to go through
 
 while check == False:
     pages += 1
